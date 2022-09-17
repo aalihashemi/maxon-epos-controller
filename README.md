@@ -49,6 +49,4 @@ keyhandle = epos.VCS_OpenDevice(b'EPOS4', b'MAXON SERIAL V2', b'USB', b'USB0', b
 6. Run and Enjoy!
 
 ---
-=======
-
 
